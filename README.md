@@ -1,8 +1,5 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="![IMG_20250728_140516](https://github.com/user-attachments/assets/006d8cbc-1c76-496b-b94d-426ff9446829)
-" alt="Header Banner" width="100%"/>
-</p>
+
 
 <h1 align="center">Hey there, I'm Zion Lopes 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
