@@ -1,31 +1,56 @@
- Hey 👋, my name is Zion Lopes
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/UaSA6fG.jpeg" alt="Header Banner" width="100%"/>
+</p>
 
-I'm a beginner fullstack developer currently specializing in MERN and in future wishing to learn more framework too!
+<h1 align="center">Hey there, I'm Zion Lopes 👋</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+
+---
+
+### 👨‍💻 About Me:
+
+- 🔭 I’m currently working on **building my skills in the MERN stack**.
+- 🌱 I’m currently learning **advanced React concepts and cloud deployment**.
+- 👯 I’m looking to collaborate on **exciting open-source projects**.
+- 💬 Ask me about **JavaScript, React, and Node.js**.
+- 📫 How to reach me: **zionlopes.dev@example.com** (replace with your actual email)
+- 😄 Pronouns: He/Him
+
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
+</p>
 
 ---
 
 ### 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-> You can create more badges like these at [shields.io](https://shields.io/)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,js,ts,html,css,tailwind,bootstrap,figma,vercel,git" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 My GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZionLopes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ZionLopes Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZionLopes&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ZionLopes GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZionLopes&theme=tokyonight" alt="ZionLopes GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZionLopes&theme=tokyonight&row=1&column=7" alt="ZionLopes GitHub Trophies" />
 </p>
