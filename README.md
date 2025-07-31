@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/UaSA6fG.jpeg" alt="Header Banner" width="100%"/>
+  <img src="![IMG_20250728_140516](https://github.com/user-attachments/assets/006d8cbc-1c76-496b-b94d-426ff9446829)
+" alt="Header Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey there, I'm Zion Lopes 👋</h1>
@@ -14,7 +15,7 @@
 - 🌱 I’m currently learning **advanced React concepts and cloud deployment**.
 - 👯 I’m looking to collaborate on **exciting open-source projects**.
 - 💬 Ask me about **JavaScript, React, and Node.js**.
-- 📫 How to reach me: **zionlopes.dev@example.com** (replace with your actual email)
+- 📫 How to reach me: **zionlopes08@gmail.com** 
 - 😄 Pronouns: He/Him
 
 ---
